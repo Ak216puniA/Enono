@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "192071818744",
+    "project_id": "enono-b5cfa",
+    "storage_bucket": "enono-b5cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192071818744:android:74297cc6e81eb4a81f0a0d",
+        "android_client_info": {
+          "package_name": "com.example.enono"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192071818744-0ked8lkkbdbhs11fv88upp06ut94p4l3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enono",
+            "certificate_hash": "cf4717d2934e9170034b90ab776f5cec47385a00"
+          }
+        },
+        {
+          "client_id": "192071818744-5kkaoav9usolmui0tt5uhtj0fccoec4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Mb2HC0wDW1aRpCueG1KWHMsUQ04k7Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192071818744-5kkaoav9usolmui0tt5uhtj0fccoec4j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "192071818744-cuvdj6jikga4n1jlfv4d0stm6rfpo54d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.enono"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
